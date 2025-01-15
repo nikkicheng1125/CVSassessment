@@ -16,11 +16,7 @@ Technologies used in the application:
 - JUnit for ui tests
 
 Below are some screenshots for the application flow:
+| Initial Screen   |   Search Screen  | Resulted Photos Screen | Detailed Photo Information |
+|------------------|------------------|------------------------|----------------------------|
+| <img src="https://github.com/user-attachments/assets/f5e5fe7b-0b83-43d1-81ed-b28a057dc584" alt="Example Image" width="300"> |<img src="https://github.com/user-attachments/assets/56366d2e-7444-41ff-8fcd-14cc6468015f" alt="Example Image" width="300"> | <img src="https://github.com/user-attachments/assets/03cb70d0-7b11-47cf-966b-0d36104af39a" alt="Example Image" width="300"> |<img src="https://github.com/user-attachments/assets/425cadf7-7e8f-4cea-a360-2540715320ad" alt="Example Image" width="300"> 
 
-![Screenshot_1736976547](https://github.com/user-attachments/assets/f5e5fe7b-0b83-43d1-81ed-b28a057dc584)
-
-![Screenshot_1736976565](https://github.com/user-attachments/assets/56366d2e-7444-41ff-8fcd-14cc6468015f)
-
-![Screenshot_1736976567](https://github.com/user-attachments/assets/03cb70d0-7b11-47cf-966b-0d36104af39a)
-
-![Screenshot_1736976570](https://github.com/user-attachments/assets/425cadf7-7e8f-4cea-a360-2540715320ad)
